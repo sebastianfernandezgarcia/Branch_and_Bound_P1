@@ -15,7 +15,7 @@ _Trabajaremos sobre un grafo de las ciudades de Rumanía._
 ![Screenshot](Grafo_Rumania.jpg)
 
 
-### Lista abierta implementada como una cola (Queue) ⌨️
+### Lista abierta implementada como una cola (Queue) ⚙️
 _La cual implementamos de las siguientes formas para comparar la cantidad de nodos expandidos frente a los métodos de búsqueda en anchura._
 
 
