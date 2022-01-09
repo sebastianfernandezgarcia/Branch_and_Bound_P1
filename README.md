@@ -12,7 +12,9 @@ Para comenzar contaremos con un nodo inicial en esta lista, que expandiremos y g
 ### El grafo📦
 _Trabajaremos sobre un grafo de las ciudades de Rumanía._
 
-![Screenshot](Grafo_Rumania.jpg)
+
+![Grafo_Rumania](https://user-images.githubusercontent.com/79119404/148701763-37c161e5-7f02-45ac-9552-5ed432787ad2.jpg)
+
 
 
 ### Lista abierta implementada como una cola (Queue) ⚙️
